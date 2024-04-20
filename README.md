@@ -41,7 +41,7 @@ To use Card Flick React:
 
 ```jsx
 import React from 'react'
-import CardFlick from 'card-flick-react'
+import {CardFlick} from 'card-flick-react'
 
 const cards = [
   { id: 1, content: 'Card 1' },
